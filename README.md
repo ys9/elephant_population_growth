@@ -6,5 +6,6 @@ Authors & Contributors of these Projects: \
 Yash Shah \
 Sergey Magedov \
 Tanner Thornton \
+Alyssa Wilson-Baxter \
 Claire Homer \
-Alyssa Wilson-Baxter
+
